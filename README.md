@@ -1,0 +1,15 @@
+# My Resume
+
+Welcome to my professional resume! Here you can find details about my skills, experience, and projects.
+
+- 📄 [Download PDF Resume](resume.pdf)
+- 🌐 [View Online Resume](https://username.github.io/resume)
+- 📧 Contact: john.doe@email.com
+- 🔗 LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+
+## About Me
+I'm a software developer with expertise in web development and data analysis.
+
+## Key Projects
+- [Project 1](https://github.com/username/project1): A web app built with React.
+- [Project 2](https://github.com/username/project2): A data analysis tool using Python.
