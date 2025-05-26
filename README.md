@@ -5,7 +5,7 @@ Welcome to my professional resume! Here you can find details about my skills, ex
 - 📄 [Download PDF Resume](resume.pdf)
 - 🌐 [View Online Resume](https://username.github.io/resume)
 - 📧 Contact: hadi.samadi2007@email.com
-- 🔗 LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
+- 🔗 LinkedIn: ([https://linkedin.com/in/johndoe](https://www.linkedin.com/in/mohammad-hadi-samadi/))
 
 ## About Me
 I'm a software developer with expertise in web development and data analysis.
