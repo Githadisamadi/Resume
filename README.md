@@ -4,7 +4,7 @@ Welcome to my professional resume! Here you can find details about my skills, ex
 
 - 📄 [Download PDF Resume](resume.pdf)
 - 🌐 [View Online Resume](https://username.github.io/resume)
-- 📧 Contact: john.doe@email.com
+- 📧 Contact: hadi.samadi2007@email.com
 - 🔗 LinkedIn: [linkedin.com/in/johndoe](https://linkedin.com/in/johndoe)
 
 ## About Me
